@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/gautamm19479933" target="blank"><img src="https://img.shields.io/twitter/follow/gautamm19479933?logo=twitter&style=for-the-badge" alt="gautamm19479933" /></a> </p>
 
-- 🔭 I’m currently working on [JOBMQ](https://github.com/gautammali/jobmqjobs)
+- 🔭 I’m currently working on SDE
 
 - 🌱 I’m currently learning **Golang and AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gautammali?tab=repositories](https://github.com/gautammali?tab=repositories)
 
-- 💬 Ask me about **react, MEAN, MERN,Web Development,**
+- 💬 Ask me about **react, MEAN, MERN,Web Development, AI development**
 
 - 📫 How to reach me **gautammali740@gmail.com**
 
