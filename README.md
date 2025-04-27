@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/gautamm19479933" target="blank"><img src="https://img.shields.io/twitter/follow/gautamm19479933?logo=twitter&style=for-the-badge" alt="gautamm19479933" /></a> </p>
 
-- 🔭 I’m currently working on SDE
+- 🔭 I’m currently working as SDE
 
 - 🌱 I’m currently learning **Golang and AI**
 
